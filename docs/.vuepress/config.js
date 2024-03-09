@@ -15,7 +15,7 @@ export default defineUserConfig ({
   }),
   lang: "ru-RU",
   title: "Архив сайта журнала «Пропаганда»",
-  base: "/",
+  base: "/propaganda-journal/",
   description: "Архив сайта журнала «Пропаганда»",
   head: [
     ["meta", { name: "theme-color", content: "#ffffff" }],
