@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+host: https://propaganda-journal.comtext.space
