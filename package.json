@@ -18,8 +18,8 @@
     "vuepress": "^2.0.0-rc.8"
   },
   "scripts": {
-    "docs:dev": "node --max_old_space_size=5096 ./node_modules/vuepress/bin/vuepress dev docs",
-    "docs:build": "node --max_old_space_size=5096 ./node_modules/vuepress/bin/vuepress.js build docs"
+    "docs:dev": "node --max_old_space_size=6096 ./node_modules/vuepress/bin/vuepress dev docs",
+    "docs:build": "node --max_old_space_size=6096 ./node_modules/vuepress/bin/vuepress.js build docs"
   },
   "dependencies": {
     "@iktakahiro/markdown-it-katex": "^4.0.1",
