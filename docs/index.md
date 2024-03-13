@@ -1,4 +1,6 @@
-# Архив сайта журнала Пропаганда (propaganda-journal.net)
+# Архив сайта журнала «Пропаганда»
+
+Старый адрес журнала: [propaganda-journal.net](https://propaganda-journal.net)
 
 * [Об архиве](/static/about.md)
 * [Список авторов](authors.md)

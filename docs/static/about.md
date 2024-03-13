@@ -1,6 +1,6 @@
 # О создании архива журнала «Пропаганда»
 
-Старый адрес журнала: [propaganda-journal.net](https://propaganda-journal.net/)
+Старый адрес журнала: [propaganda-journal.net](https://propaganda-journal.net)
 
 В качестве источника данных использованы страницы оригинального сайта, скачанные через программу `wget`. Эти страницы преобразованы в Markdown с помощью специально написанного для этой задачи [конвертора](https://github.com/comtextspace/propaganda-parser) на [Node.js](https://nodejs.org). Конвертация проходит в два этапа: первый — импорт из html в Markdown файл и сохранение данных в базе данных sqlite3, а второй этап — экспорт страниц в Markdown файлы. Структура файлов сделана подходящей для [генератора статических сайтов](https://en.wikipedia.org/wiki/Static_site_generator) [VuePress](https://v2.vuepress.vuejs.org), с помощью которого сделан этот сайт.
 
