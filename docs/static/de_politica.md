@@ -5561,7 +5561,7 @@ Introitus[^411] заупокойной мессы по российскому п
 
 **2023—05—22** Włodzimierz Podlipski
 
-![](img\de_politica_46.PNG)
+![](img\de_politica_46.png)
 
 *А як їх наймення та де їх могили*
 
